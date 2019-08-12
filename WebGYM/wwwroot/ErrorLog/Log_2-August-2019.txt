@@ -1,0 +1,362 @@
+
+8/2/2019 11:09:53 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- Employee
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Unable to resolve service for type 'WebGYM.Interface.IEmployee' while attempting to activate 'WebGYM.Controllers.EmployeeController'.
+Source ---
+{0}Microsoft.Extensions.DependencyInjection.Abstractions
+StackTrace ---
+{0}   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Object GetService(System.IServiceProvider, System.Type, System.Type, Boolean)
+
+
+8/2/2019 11:19:46 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- Employee
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Unable to resolve service for type 'WebGYM.Interface.IEmployee' while attempting to activate 'WebGYM.Controllers.EmployeeController'.
+Source ---
+{0}Microsoft.Extensions.DependencyInjection.Abstractions
+StackTrace ---
+{0}   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Object GetService(System.IServiceProvider, System.Type, System.Type, Boolean)
+
+
+8/2/2019 11:28:54 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- Employee
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Unable to resolve service for type 'WebGYM.Interface.IEmployee' while attempting to activate 'WebGYM.Controllers.EmployeeController'.
+Source ---
+{0}Microsoft.Extensions.DependencyInjection.Abstractions
+StackTrace ---
+{0}   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Object GetService(System.IServiceProvider, System.Type, System.Type, Boolean)
+
+
+8/2/2019 11:40:36 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- Employee
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Unable to resolve service for type 'WebGYM.Interface.IEmployee' while attempting to activate 'WebGYM.Controllers.EmployeeController'.
+Source ---
+{0}Microsoft.Extensions.DependencyInjection.Abstractions
+StackTrace ---
+{0}   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Object GetService(System.IServiceProvider, System.Type, System.Type, Boolean)
+
+
+8/2/2019 11:52:39 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- Employee
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Unable to resolve service for type 'WebGYM.Interface.IEmployee' while attempting to activate 'WebGYM.Controllers.EmployeeController'.
+Source ---
+{0}Microsoft.Extensions.DependencyInjection.Abstractions
+StackTrace ---
+{0}   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Object GetService(System.IServiceProvider, System.Type, System.Type, Boolean)
+
+
+8/2/2019 12:26:33 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Employee
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}An exception occurred while reading a database value for property 'Employee.Status'. The expected type was 'System.Boolean' but the actual value was null.
+Source ---
+{0}Microsoft.EntityFrameworkCore
+StackTrace ---
+{0}   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.ThrowReadValueException[TValue](Exception exception, Object value, IPropertyBase property)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.TryReadValue[TValue](ValueBuffer& valueBuffer, Int32 index, IPropertyBase property)
+   at lambda_method(Closure , MaterializationContext )
+   at Microsoft.EntityFrameworkCore.Query.ExpressionVisitors.Internal.UnbufferedEntityShaper`1.Shape(QueryContext queryContext, ValueBuffer& valueBuffer)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider._TrackEntities[TOut,TIn](IEnumerable`1 results, QueryContext queryContext, IList`1 entityTrackingInfos, IList`1 entityAccessors)+MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.EmployeeConcerte.GetAllEmployees()
+   at WebGYM.Controllers.EmployeeController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\EmployeeController.cs:line 32
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}TValue ThrowReadValueException[TValue](System.Exception, System.Object, Microsoft.EntityFrameworkCore.Metadata.IPropertyBase)
+Inner Exception is {0}System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.TryReadValue[TValue](ValueBuffer& valueBuffer, Int32 index, IPropertyBase property)
+
+
+8/2/2019 3:08:36 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Student
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}An exception occurred while reading a database value for property 'Student.Contact'. The expected type was 'System.Int32' but the actual value was of type 'System.Decimal'.
+Source ---
+{0}Microsoft.EntityFrameworkCore
+StackTrace ---
+{0}   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.ThrowReadValueException[TValue](Exception exception, Object value, IPropertyBase property)
+   at lambda_method(Closure , DbDataReader )
+   at Microsoft.EntityFrameworkCore.Storage.Internal.TypedRelationalValueBufferFactory.Create(DbDataReader dataReader)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetStudentList() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 57
+   at WebGYM.Controllers.StudentController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StudentController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}TValue ThrowReadValueException[TValue](System.Exception, System.Object, Microsoft.EntityFrameworkCore.Metadata.IPropertyBase)
+Inner Exception is {0}System.InvalidCastException: Unable to cast object of type 'System.Decimal' to type 'System.Int32'.
+   at System.Data.SqlClient.SqlBuffer.get_Int32()
+   at System.Data.SqlClient.SqlDataReader.GetInt32(Int32 i)
+   at lambda_method(Closure , DbDataReader )
+
+
+8/2/2019 3:12:10 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Student
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}An exception occurred while reading a database value for property 'Student.Contact'. The expected type was 'System.Int32' but the actual value was null.
+Source ---
+{0}Microsoft.EntityFrameworkCore
+StackTrace ---
+{0}   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.ThrowReadValueException[TValue](Exception exception, Object value, IPropertyBase property)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.TryReadValue[TValue](ValueBuffer& valueBuffer, Int32 index, IPropertyBase property)
+   at lambda_method(Closure , QueryContext , TransparentIdentifier`2 )
+   at Microsoft.EntityFrameworkCore.Query.ExpressionVisitors.Internal.ProjectionShaper.TypedProjectionShaper`3.Shape(QueryContext queryContext, ValueBuffer& valueBuffer)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetStudentList() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 57
+   at WebGYM.Controllers.StudentController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StudentController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}TValue ThrowReadValueException[TValue](System.Exception, System.Object, Microsoft.EntityFrameworkCore.Metadata.IPropertyBase)
+Inner Exception is {0}System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.EntityMaterializerSource.TryReadValue[TValue](ValueBuffer& valueBuffer, Int32 index, IPropertyBase property)
+
+
+8/2/2019 3:17:09 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Student
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Nullable object must have a value.
+Source ---
+{0}System.Private.CoreLib
+StackTrace ---
+{0}   at lambda_method(Closure , QueryContext , TransparentIdentifier`2 )
+   at Microsoft.EntityFrameworkCore.Query.ExpressionVisitors.Internal.ProjectionShaper.TypedProjectionShaper`3.Shape(QueryContext queryContext, ValueBuffer& valueBuffer)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetStudentList() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 57
+   at WebGYM.Controllers.StudentController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StudentController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}Void ThrowInvalidOperationException_InvalidOperation_NoValue()
+
+
+8/2/2019 3:17:41 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Student
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Nullable object must have a value.
+Source ---
+{0}System.Private.CoreLib
+StackTrace ---
+{0}   at lambda_method(Closure , QueryContext , TransparentIdentifier`2 )
+   at Microsoft.EntityFrameworkCore.Query.ExpressionVisitors.Internal.ProjectionShaper.TypedProjectionShaper`3.Shape(QueryContext queryContext, ValueBuffer& valueBuffer)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetStudentList() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 57
+   at WebGYM.Controllers.StudentController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StudentController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}Void ThrowInvalidOperationException_InvalidOperation_NoValue()
+
+
+8/2/2019 3:18:03 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Student
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Nullable object must have a value.
+Source ---
+{0}System.Private.CoreLib
+StackTrace ---
+{0}   at lambda_method(Closure , QueryContext , TransparentIdentifier`2 )
+   at Microsoft.EntityFrameworkCore.Query.ExpressionVisitors.Internal.ProjectionShaper.TypedProjectionShaper`3.Shape(QueryContext queryContext, ValueBuffer& valueBuffer)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetStudentList() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 57
+   at WebGYM.Controllers.StudentController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StudentController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}Void ThrowInvalidOperationException_InvalidOperation_NoValue()
+
+
+8/2/2019 3:20:24 PM
+------------------------------------------------------------------------------------------------
+Controller Name :- Student
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Nullable object must have a value.
+Source ---
+{0}System.Private.CoreLib
+StackTrace ---
+{0}   at lambda_method(Closure , QueryContext , TransparentIdentifier`2 )
+   at Microsoft.EntityFrameworkCore.Query.ExpressionVisitors.Internal.ProjectionShaper.TypedProjectionShaper`3.Shape(QueryContext queryContext, ValueBuffer& valueBuffer)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetStudentList() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 57
+   at WebGYM.Controllers.StudentController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StudentController.cs:line 30
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}Void ThrowInvalidOperationException_InvalidOperation_NoValue()
+

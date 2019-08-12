@@ -1,0 +1,6 @@
+F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\bin\Debug\WebGYM.ViewModels.dll
+F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\bin\Debug\WebGYM.ViewModels.pdb
+F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csproj.CoreCompileInputs.cache
+F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.dll
+F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.pdb
+F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csprojAssemblyReference.cache

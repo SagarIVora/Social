@@ -1,0 +1,98 @@
+
+8/7/2019 10:33:51 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- StateCity
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Object reference not set to an instance of an object.
+Source ---
+{0}WebGYM
+StackTrace ---
+{0}   at WebGYM.Controllers.StateCityController.Get() in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StateCityController.cs:line 23
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Collections.Generic.IEnumerable`1[WebGYM.ViewModels.StateViewModel] Get()
+
+
+8/7/2019 10:41:14 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- StateCity
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Invalid column name 'SatetId'.
+Invalid column name 'SatetId'.
+Source ---
+{0}Core .Net SqlClient Data Provider
+StackTrace ---
+{0}   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.Execute(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteReader(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WebGYM.Concrete.StudentConcrete.GetCityList(Int32 sid) in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Concrete\StudentConcrete.cs:line 153
+   at WebGYM.Controllers.StateCityController.Get(Int32 sid) in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StateCityController.cs:line 33
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])
+
+
+8/7/2019 10:46:18 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- StateCity
+Action Method Name :- Get
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}Method not found: 'Void WebGYM.ViewModels.CityViewModel.set_SatetId(Int32)'.
+Source ---
+{0}WebGYM.Concrete
+StackTrace ---
+{0}   at WebGYM.Concrete.StudentConcrete.GetCityList(Int32 sid)
+   at WebGYM.Controllers.StateCityController.Get(Int32 sid) in F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM\Controllers\StateCityController.cs:line 33
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}System.Collections.Generic.List`1[WebGYM.ViewModels.CityViewModel] GetCityList(Int32)
+
