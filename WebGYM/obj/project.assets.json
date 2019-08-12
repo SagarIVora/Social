@@ -13094,11 +13094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM\\WebGYM.csproj",
+      "projectUniqueName": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM\\WebGYM.csproj",
       "projectName": "WebGYM",
-      "projectPath": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM\\WebGYM.csproj",
+      "projectPath": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM\\WebGYM.csproj",
       "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM\\obj\\",
+      "outputPath": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13117,17 +13117,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.Concrete\\WebGYM.Concrete.csproj": {
-              "projectPath": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.Concrete\\WebGYM.Concrete.csproj"
+            "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.Concrete\\WebGYM.Concrete.csproj": {
+              "projectPath": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.Concrete\\WebGYM.Concrete.csproj"
             },
-            "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.Interface\\WebGYM.Interface.csproj": {
-              "projectPath": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.Interface\\WebGYM.Interface.csproj"
+            "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.Interface\\WebGYM.Interface.csproj": {
+              "projectPath": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.Interface\\WebGYM.Interface.csproj"
             },
-            "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.Models\\WebGYM.Models.csproj": {
-              "projectPath": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.Models\\WebGYM.Models.csproj"
+            "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.Models\\WebGYM.Models.csproj": {
+              "projectPath": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.Models\\WebGYM.Models.csproj"
             },
-            "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.ViewModels\\WebGYM.ViewModels.csproj": {
-              "projectPath": "F:\\Ravi\\Angular-7-Project-with-ASP.NET-CORE-APIS-master\\WebGYM\\WebGYM.ViewModels\\WebGYM.ViewModels.csproj"
+            "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.ViewModels\\WebGYM.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\a\\Documents\\GitHub\\Gym-Angular-API\\WebGYM.ViewModels\\WebGYM.ViewModels.csproj"
             }
           }
         }
