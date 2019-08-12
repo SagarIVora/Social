@@ -6,3 +6,11 @@ F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Models\obj
 F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Models\obj\Debug\WebGYM.Models.dll
 F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Models\obj\Debug\WebGYM.Models.pdb
 F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.Models\obj\Debug\WebGYM.Models.csprojAssemblyReference.cache
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\bin\Debug\WebGYM.Models.dll
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\bin\Debug\WebGYM.Models.pdb
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.csprojAssemblyReference.cache
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.csproj.CoreCompileInputs.cache
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.csproj.CopyComplete
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.dll
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.pdb

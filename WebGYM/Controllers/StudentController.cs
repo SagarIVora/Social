@@ -30,6 +30,12 @@ namespace WebGYM.Controllers
             return _student.GetStudentList();
         }
 
+        // GET: api/Student
+        [HttpGet]
+        public IEnumerable<StudentDisplayViewModel> GetData()
+        {
+            return _student.GetStudentList();
+        }
 
         // GET: api/Student/5
         [HttpGet("{id}", Name = "GetStudent")]
