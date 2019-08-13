@@ -1,0 +1,6 @@
+
+*.lock
+.vs/config/applicationhost.config
+.vs/WebGYM/v15/.suo
+.vs/WebGYM/v15/Server/sqlite3/storage.ide
+.vs/WebGYM/v15/Server/sqlite3/storage.ide-shm
