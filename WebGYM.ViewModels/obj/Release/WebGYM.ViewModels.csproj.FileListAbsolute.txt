@@ -1,5 +1,0 @@
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\bin\Release\WebGYM.ViewModels.dll
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\bin\Release\WebGYM.ViewModels.pdb
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Release\WebGYM.ViewModels.csproj.CoreCompileInputs.cache
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Release\WebGYM.ViewModels.dll
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Release\WebGYM.ViewModels.pdb

@@ -13,4 +13,3 @@ C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Model
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.csproj.CopyComplete
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.dll
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.pdb
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.Models\obj\Debug\WebGYM.Models.csprojAssemblyReference.cache

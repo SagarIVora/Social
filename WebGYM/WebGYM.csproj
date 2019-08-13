@@ -2,12 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <NoWarn>1701;1702;1591</NoWarn>
     <DocumentationFile>bin\Debug\netcoreapp2.1\WebGYM.xml</DocumentationFile>
     <OutputPath>bin\Debug\netcoreapp2.1\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM\WebGYM.xml</DocumentationFile>
+    <OutputPath>bin\Release\netcoreapp2.1\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
