@@ -6,7 +6,7 @@ F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels
 F:\Ravi\Angular-7-Project-with-ASP.NET-CORE-APIS-master\WebGYM\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csprojAssemblyReference.cache
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\bin\Debug\WebGYM.ViewModels.dll
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\bin\Debug\WebGYM.ViewModels.pdb
-C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csprojAssemblyReference.cache
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csproj.CoreCompileInputs.cache
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.dll
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.pdb
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csprojAssemblyReference.cache
