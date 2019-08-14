@@ -15,7 +15,7 @@ namespace WebGYM.ViewModels
         public string Address { get; set; }
         public string EmailId { get; set; }
         public DateTime DOB { get; set; }
-        public int Age { get; set; }
+        public int? Age { get; set; }
         public string Gender { get; set; }
         public string JoinReason { get; set; }
         public int CreatedBy { get; set; }
@@ -31,7 +31,7 @@ namespace WebGYM.ViewModels
         public string Address { get; set; }
         public string EmailId { get; set; }
         public DateTime DOB { get; set; }
-        public int Age { get; set; }
+        public int? Age { get; set; }
         public string Gender { get; set; }
         public string JoinReason { get; set; }
         public int CreatedBy { get; set; }

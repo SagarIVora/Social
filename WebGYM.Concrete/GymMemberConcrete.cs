@@ -104,6 +104,7 @@ namespace WebGYM.Concrete
                               DOB = TempGymMembers.DOB,
                               Age = TempGymMembers.Age,
                               Gender = TempGymMembers.Gender,
+                              JoinReason=TempGymMembers.JoinReason,
                           }).ToList();
 
             return result;

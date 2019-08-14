@@ -9,3 +9,4 @@ C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\bin\Debug\WebGYM.V
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csproj.CoreCompileInputs.cache
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.dll
 C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.pdb
+C:\Users\a\Documents\GitHub\Gym-Angular-API\WebGYM.ViewModels\obj\Debug\WebGYM.ViewModels.csprojAssemblyReference.cache

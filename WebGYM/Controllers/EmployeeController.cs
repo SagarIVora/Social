@@ -25,7 +25,7 @@ namespace WebGYM.Controllers
         {
             _employee = employee;
         }
-
+        // GET: api/Employee
         [HttpGet]
         public IEnumerable<Employee> Get()
         {
